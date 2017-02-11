@@ -1,3 +1,17 @@
 body {
     padding-top: 50px;
 }
+#first,#second,#third,#forth{
+    
+    color: red;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 15px;
+    
+    
+}
+.flashes{
+
+    color:green;
+    font-size:large;
+}
